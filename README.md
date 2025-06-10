@@ -1,4 +1,4 @@
-## Bem-vindo(a)! 😁
+## Bem-vinde! 😁
 
  <div>
    <a href="https://github.com/Mars-Haley">
